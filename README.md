@@ -1,3 +1,8 @@
+#更新
+按照要求改写礼物处理流程，但因某些条件不清晰，没办法做得太完善
+修改文件为 Modules/Gift/Http/Controllers/GiftController.php
+
+
 # 礼物系统
 该项目是一部分功能的伪代码 不保证是否可运行
 
